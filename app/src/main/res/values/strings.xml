@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppSMSKotlin</string>
+    <string name="txt_fono">Dame un numero celular</string>
+    <string name="txt_mensaje">Escriba un mensaje</string>
+    <string name="btn_enviar">Enviar Mensaje</string>
+</resources>
